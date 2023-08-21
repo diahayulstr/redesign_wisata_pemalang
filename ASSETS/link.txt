@@ -1,0 +1,8 @@
+(ABOUT) (Pemalang Ikhlas_) https://id.pinterest.com/pin/682084306049900987/
+(WISATA) (vacation.png) https://www.flaticon.com/free-icon/vacation_6556471?term=holiday&page=1&position=20&page=1&position=20&related_id=6556471&origin=search 
+(KULINER) (knife.png) https://www.flaticon.com/free-icon/knife_2872222?term=fork&related_id=2872222 
+(EVENT) (people.png) https://www.flaticon.com/free-icon/people_3269019?related_id=3269019
+(PENGINAPAN) (hotel.png) https://www.flaticon.com/free-icon/hotel_2955135?term=hotels&related_id=2955135
+(CAFE & RESTO) (cafe.png) https://www.flaticon.com/free-icon/cafe_2935477?related_id=2935477
+(TRANSPORTASI) (vehicles.png) https://www.flaticon.com/free-icon/vehicles_575780?related_id=575780 
+
