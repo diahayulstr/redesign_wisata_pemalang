@@ -1,0 +1,30 @@
+## wisatapemalang.com - redesign
+ 
+wisatapemalang.com adalah website yang dikelola oleh Disparpora (Dinas Pariwisata, Pemuda, dan Olahraga) Kab. Pemalang, Jawa Tengah. Website ini diperkenalkan untuk menyampaikan informasi terkait pariwisata, makanan dan berbagai tradisi yang menjadi ciri khas dari Kab. Pemalang.
+
+## 🔍 Overview
+
+Proyek ini merupakan hasil desain ulang dari website wisatapemalang.com yang sudah ada sebelumnya. Versi sebelumnya informasi yang disajikan kurang lengkap dan desain kurang menarik di mata pengguna. Perbaikan dilakukan berdasarkan rekomendasi dan kebutuhan pengguna, guna meningkatkan pengalaman pengguna dalam mengakses website.  Uji coba melalui metode usability testing dilakukan guna mengetahui tingkat keberhasilan hasil redesign dari hasil testing pada desain awal dan akhir.
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+## 💡 Features
+
+- Responsif desain (mobile, desktop & tablet)
+- Informasi (wisata, kuliner, oleh-oleh, transportasi, penginapan, cafe & ressto)
+- Desain fitur pencarian
+- Desain komentar/review
+
+## 🚀 How to Run Locally
+
+Cukup lakukan clone atau download repositori ini, dan buka file dengan nama "index.html" di browser anda.
+
+```bash
+git clone https://github.com/yourusername/vegan-drinks-landing.git
+cd vegan-drinks-landing
+open index.html
